@@ -97,12 +97,11 @@ metadata:
   name: cexitemstocheckqty
 data:
   cexitemstocheckqty.txt: |-
-      5023843024816ab #Spider-Man/X-Men w/ man
-      3455198003826ab #SeparationAnxiety w/ man
-      5020717500032ab #Skeleton Krew
-      4012927053164 #NoMoreHeroes
-      4974365615352ab #AdventuresofBatmanAndRobin w/ man
-      4974365615352b #AdventuresofBatmanAndRobin wo/ man
+      711719124887 #Littlebigplanet2collectorsedition
+4020628513412 #Killerisdeadfanedition
+SLEGX360S884B #Myhorseandme2
+SLEGX360S1314B #Tornadooutbreak
+SLEGX360S273B #Crashtime5
 ---
 apiVersion: batch/v1
 kind: CronJob
