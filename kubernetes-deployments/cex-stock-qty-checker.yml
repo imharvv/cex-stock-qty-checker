@@ -128,7 +128,7 @@ spec:
             command:
             - /bin/sh
             - -c
-            - "pwsh -ExecutionPolicy Unrestricted -NonInteractive -Command '/config/cexstoreqtycheck.ps1' -ItemsToCheckFilePath '/config/cexitemstocheckqty.txt' -PushoverToken 'ar7tq7fnrka1i1shvji2ej6qi2btoz' -PushoverUser 'uzdp3zaqsg5uxfz1ua5gviyyq4j2so'"
+            - "pwsh -ExecutionPolicy Unrestricted -NonInteractive -Command '/config/cexstoreqtycheck.ps1' -ItemsToCheckFilePath '/config/cexitemstocheckqty.txt' -PushoverToken 'awu4hb3oxk4xjm34o5tgn9nmpj6ruy' -PushoverUser 'u1z6z9bs1kcuiwtkifymb228j6edhu'"
             volumeMounts:
               - mountPath: "/cex"
                 name: cex
